@@ -3,9 +3,9 @@
 ## 2022.02.07 ~ 
 | No  |      Project       |                                      Team                                       |                               Step1                                | Step2 |                 Reviewer                 |
 | :-: | :----------------: | :-----------------------------------------------------------------------------: | :--------------------------------------: | :----------------------------------------------------------------: | :---: |   
-|  3  | [쥬스 메이커](#-3.-쥬스-메이커) | [@kimkyunghun3](https://github.com/kimkyunghun3)  | [PR]() |   [PR](https://github.com/yagom-academy/ios-juice-maker/pull/131)   | [@AppleCeo](https://github.com/AppleCEO) |   
-|  2  | [묵찌빠 게임](#-2.-묵찌빠-게임) | [@마이노](https://github.com/Mino777) | [PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/108) |   [PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/118)   | [@Yoohan](https://github.com/YohanBlessYou) |
-|  1  | [숫자 야구 게임](###-1.-숫자-야구-게임) | [@Quokkaaa](https://github.com/Quokkaaa) | [PR](https://github.com/yagom-academy/ios-number-baseball/pull/74) |  [PR](https://github.com/yagom-academy/ios-number-baseball/pull/89) | [@Jerry](https://github.com/llghdud921) |  
+|  3  | [쥬스 메이커](#3-쥬스-메이커) | [@kimkyunghun3](https://github.com/kimkyunghun3)  | [PR]() |   [PR](https://github.com/yagom-academy/ios-juice-maker/pull/131)   | [@AppleCeo](https://github.com/AppleCEO) |   
+|  2  | [묵찌빠 게임](#2-묵찌빠-게임) | [@마이노](https://github.com/Mino777) | [PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/108) |   [PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/118)   | [@Yoohan](https://github.com/YohanBlessYou) |
+|  1  | [숫자 야구 게임](#1-숫자-야구-게임) | [@Quokkaaa](https://github.com/Quokkaaa) | [PR](https://github.com/yagom-academy/ios-number-baseball/pull/74) |  [PR](https://github.com/yagom-academy/ios-number-baseball/pull/89) | [@Jerry](https://github.com/llghdud921) |  
 
 ## Projects
 ### 3. 쥬스 메이커
@@ -27,11 +27,12 @@
 - [첫번째 PR]()
 </br>
 </br>
+
 ### 2. 묵찌빠 게임
 
 🗓 기간 : 2022.02.14 ~ 2022.02.18  </br>
 🗓 팀원 : [로이](https://github.com/Roy-wonji), [마이노](https://github.com/Mino777)</br>
-🗓 리뷰어 : [요한](https://github.com/llghdud921)
+🗓 리뷰어 : [요한](https://github.com/llghdud921)</br>
 [📂 묵찌빠 게임 저장소로 이동](https://github.com/ye-ha/ios-rock-paper-scissors)
 
 </br>
@@ -67,7 +68,7 @@
 
 🗓 기간 : 2022.02.07 ~ 2022.02.11  </br>
 🗓 팀원 : [로이](https://github.com/Roy-wonji), [쿼카](https://github.com/Quokkaaa)</br>
-🗓 리뷰어 : [제리](https://github.com/llghdud921)
+🗓 리뷰어 : [제리](https://github.com/llghdud921)</br>
 [📂 숫자 야구 게임 저장소로 이동](https://github.com/ye-ha/ios-number-baseball)
 </br>
 
@@ -88,3 +89,6 @@
  📝 Pull Request && Review  </br>
 - [첫번째 PR](https://github.com/yagom-academy/ios-number-baseball/pull/74)
 - [두번째 PR](https://github.com/yagom-academy/ios-number-baseball/pull/89)
+
+
+
