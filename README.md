@@ -19,8 +19,19 @@
 
  </br>
 
- 🖇 해당 주차 TIL
+<details>
+<summary><b>🖇 해당 주차 TIL<b/></summary>
+<div markdown="1">
+ &nbsp;
+ 
  -  [2022.02.21](https://github.com/Roy-wonji/iOS_yagom_starter_camp/blob/main/TIL/2%EC%9B%94/2022.02.21.md)
+ &nbsp;   
+</div>
+</details>
+</br>
+
+
+
 </br>
 
 📝 Pull Request && Review  </br>
@@ -51,9 +62,19 @@
 
  </br>
  
-
- 🖇 해당 주차 TIL
+<details>
+<summary><b>🖇 해당 주차 TIL<b/></summary>
+<div markdown="1">
+ &nbsp;
+ 
  -  [2022.02.14](https://github.com/Roy-wonji/iOS_yagom_starter_camp/blob/main/TIL/2%EC%9B%94/2022.02.14.md)
+ &nbsp;   
+</div>
+</details>
+</br>
+
+
+ 
 
 📝 Pull Request && Review  </br>
 -  [첫번째 PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/108)
@@ -81,11 +102,19 @@
 - ClosedRange
 - Hard Coding
 
-
+<details>
+<summary><b>🖇 해당 주차 TIL<b/></summary>
+<div markdown="1">
+ &nbsp;
  
- 🖇 해당 주차 TIL
- -  [2022.02.07](https://github.com/Roy-wonji/iOS_yagom_starter_camp/blob/main/TIL/2%EC%9B%94/2022.02.07.md)</br>
+ - [2022.02.07](https://github.com/Roy-wonji/iOS_yagom_starter_camp/blob/main/TIL/2%EC%9B%94/2022.02.07.md)</br>
+ &nbsp;   
+</div>
+</details>
+</br>
  
  📝 Pull Request && Review  </br>
 - [첫번째 PR](https://github.com/yagom-academy/ios-number-baseball/pull/74)
 - [두번째 PR](https://github.com/yagom-academy/ios-number-baseball/pull/89)
+
+
