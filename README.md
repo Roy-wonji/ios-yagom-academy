@@ -12,15 +12,15 @@
 
 🗓 기간 : 2022.02.21 ~ 2022.03.09  
 🗓 리뷰어 : [도미닉](https://github.com/AppleCEO)</br>
-[📂 쥬스 메이커 저장소로 이동](https://github.com/ye-ha/ios-juice-maker)
+[📂 쥬스 메이커 저장소로 이동](https://github.com/Roy-wonji/ios-yagom-academy/tree/main/2022_02_21_Juice%20maker)
 
 🗂 세부사항
 - 
 
- 📂 [해당 폴더로 이동](https://github.com/Roy-wonji/iOS_yagom_starter_camp/tree/main/2022_02_21_Juice%20maker)</br>
+ </br>
 
  🖇 해당 주차 TIL
- -  [2022.02.21](https://github.com/Roy-wonji/iOS_yagom_starter_camp/blob/main/TIL/2월/2022.02.21.md)
+ -  [2022.02.21](https://github.com/Roy-wonji/iOS_yagom_starter_camp/blob/main/TIL/2%EC%9B%94/2022.02.21.md)
 </br>
 
 📝 Pull Request && Review  </br>
@@ -32,8 +32,8 @@
 
 🗓 기간 : 2022.02.14 ~ 2022.02.18  </br>
 🗓 팀원 : [로이](https://github.com/Roy-wonji), [마이노](https://github.com/Mino777)</br>
-🗓 리뷰어 : [요한](https://github.com/llghdud921)</br>
-[📂 묵찌빠 게임 저장소로 이동](https://github.com/ye-ha/ios-rock-paper-scissors)
+🗓 리뷰어 : [요한](https://github.com/llghdud921)
+[📂 묵찌빠 게임 저장소로 이동](https://github.com/Roy-wonji/ios-yagom-academy/tree/main/2022_02_14_mukchibaGame)
 
 </br>
 
@@ -49,7 +49,7 @@
 - if let과 guard let의 사용
 - class 구현
 
- 📂[해당 폴더로 이동](https://github.com/Roy-wonji/iOS_yagom_starter_camp/tree/main/2022_02_14_mukchibaGame)</br>
+ </br>
  
 
  🖇 해당 주차 TIL
@@ -68,8 +68,8 @@
 
 🗓 기간 : 2022.02.07 ~ 2022.02.11  </br>
 🗓 팀원 : [로이](https://github.com/Roy-wonji), [쿼카](https://github.com/Quokkaaa)</br>
-🗓 리뷰어 : [제리](https://github.com/llghdud921)</br>
-[📂 숫자 야구 게임 저장소로 이동](https://github.com/ye-ha/ios-number-baseball)
+🗓 리뷰어 : [제리](https://github.com/llghdud921)
+[📂 숫자 야구 게임 저장소로 이동](https://github.com/Roy-wonji/ios-yagom-academy/tree/main/2022_02_08_baseballGame%20)
 </br>
 
 <img src = "https://i.imgur.com/OBkszO7.jpg" width="175px"> </br> </br>
@@ -81,7 +81,7 @@
 - ClosedRange
 - Hard Coding
 
- 📁 [해당 폴더로 이동](https://github.com/Roy-wonji/iOS_yagom_starter_camp/tree/main/2022_02_08_baseballGame%20)</br>
+
  
  🖇 해당 주차 TIL
  -  [2022.02.07](https://github.com/Roy-wonji/iOS_yagom_starter_camp/blob/main/TIL/2%EC%9B%94/2022.02.07.md)</br>
@@ -89,6 +89,3 @@
  📝 Pull Request && Review  </br>
 - [첫번째 PR](https://github.com/yagom-academy/ios-number-baseball/pull/74)
 - [두번째 PR](https://github.com/yagom-academy/ios-number-baseball/pull/89)
-
-
-
