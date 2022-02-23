@@ -3,7 +3,7 @@
 ## 2022.02.07 ~ 
 | No  |      Project       |                                      Team                                       |                               Step1                                | Step2 |                 Reviewer                 |
 | :-: | :----------------: | :-----------------------------------------------------------------------------: | :--------------------------------------: | :----------------------------------------------------------------: | :---: |   
-|  3  | [쥬스 메이커](#3-쥬스-메이커) | [@kimkyunghun3](https://github.com/kimkyunghun3)  | [PR]() |   [PR](https://github.com/yagom-academy/ios-juice-maker/pull/131)   | [@AppleCeo](https://github.com/AppleCEO) |   
+|  3  | [쥬스 메이커](#3-쥬스-메이커) | [@kimkyunghun3](https://github.com/kimkyunghun3)  | [PR](https://github.com/yagom-academy/ios-juice-maker/pull/189) |   [PR](https://github.com/yagom-academy/ios-juice-maker/pull/131)   | [@AppleCeo](https://github.com/AppleCEO) |   
 |  2  | [묵찌빠 게임](#2-묵찌빠-게임) | [@마이노](https://github.com/Mino777) | [PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/108) |   [PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/118)   | [@Yoohan](https://github.com/YohanBlessYou) |
 |  1  | [숫자 야구 게임](#1-숫자-야구-게임) | [@Quokkaaa](https://github.com/Quokkaaa) | [PR](https://github.com/yagom-academy/ios-number-baseball/pull/74) |  [PR](https://github.com/yagom-academy/ios-number-baseball/pull/89) | [@Jerry](https://github.com/llghdud921) |  
 
@@ -35,7 +35,8 @@
 </br>
 
 📝 Pull Request && Review  </br>
-- [첫번째 PR]()
+- [첫번째 PR](https://github.com/yagom-academy/ios-juice-maker/pull/189)
+- [두번째 PR]()
 </br>
 </br>
 
