@@ -18,4 +18,4 @@
 |[2022_02_21](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/2%EC%9B%94/2022.02.21.md)| Result, 초기화, 접근제어 |
 |[2022_02_22](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/2%EC%9B%94/2022.02.22.md)| 에러처리 , 프로토콜 , 오픈소스의 라이센스|
 |[2022_02_24](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/2월/2022.02.24.md)| Notification Center , UiButton, Kvo|
-|[2022_02_25]()| kvo, Uilabel |
+|[2022_02_25](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/2월/2022.02.25.md)| kvo, Uilabel |
