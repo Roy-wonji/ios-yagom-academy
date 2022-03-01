@@ -32,4 +32,4 @@
 ### 2022.3월 summary
 |날짜|내용|
 |:-----:|:------:|
-|[2022.03.01]()|- |
+|[2022.03.01](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/3%EC%9B%94/2022.03.01.md)| 오토레이아 아웃 , 은닉화 처리 |
