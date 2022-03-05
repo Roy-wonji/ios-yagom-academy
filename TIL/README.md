@@ -36,3 +36,5 @@
 |:-----:|:------:|
 |[2022.03.01](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/3%EC%9B%94/2022.03.01.md)| 오토레이아 아웃 , 은닉화 처리 |
 |[2022.03.03](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/3월/2022.03.03.md)| view LIfe cycle|
+
+|[2022.03.04]()| 화면 전환 방식 , tag|
