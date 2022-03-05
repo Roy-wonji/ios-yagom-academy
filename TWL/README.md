@@ -24,5 +24,5 @@ today week L learned
  
 |주차|내용|
 |:---:|:---:|
-|[2022년 3월 1주차]()|쥬스 프로젝트 2주차 회고|
+|[2022년 3월 1주차](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TWL/3월/2022.3월%201주차.md)|쥬스 프로젝트 2주차 회고|
 
