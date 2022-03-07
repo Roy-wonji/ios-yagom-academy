@@ -15,8 +15,18 @@
 🗓 리뷰어 : [도미닉](https://github.com/AppleCEO)</br>
 [📂 쥬스 메이커 저장소로 이동](https://github.com/Roy-wonji/ios-yagom-academy/tree/main/2022_02_21_Juice%20maker)
 
+</br>
+
+![Simulator Screen Recording - iPhone 13 Pro Max - 2022-03-07 at 11 12 18](https://user-images.githubusercontent.com/75601594/156959790-ebd0229b-b661-4e12-b144-78915ab3d9ae.gif)
+
+</br>
+
 🗂 세부사항
-- 
+- init rawValue
+- 캡슐화
+- IBoutletCollection
+- Tag
+- SRP 원칙
 
  </br>
 
@@ -37,7 +47,8 @@
 
 📝 Pull Request && Review  </br>
 - [첫번째 PR](https://github.com/yagom-academy/ios-juice-maker/pull/189)
-- [두번째 PR]()
+- [두번째 PR](https://github.com/yagom-academy/ios-juice-maker/pull/194)
+- [세번째 PR]()
 </br>
 </br>
 
@@ -63,7 +74,6 @@
 - class 구현
 
  </br>
- 
 <details>
 <summary><b>🖇 해당 주차 TIL<b/></summary>
 <div markdown="1">
@@ -104,6 +114,8 @@
 - ClosedRange
 - Hard Coding
 
+
+</br>
 <details>
 <summary><b>🖇 해당 주차 TIL<b/></summary>
 <div markdown="1">
@@ -115,8 +127,7 @@
 </details>
 </br>
  
+ 
  📝 Pull Request && Review  </br>
 - [첫번째 PR](https://github.com/yagom-academy/ios-number-baseball/pull/74)
 - [두번째 PR](https://github.com/yagom-academy/ios-number-baseball/pull/89)
-
-
