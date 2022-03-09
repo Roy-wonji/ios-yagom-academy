@@ -38,3 +38,4 @@
 |[2022.03.03](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/3월/2022.03.03.md)| view LIfe cycle|
 |[2022.03.04](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/3월/2022.03.04.md)| 화면 전환 방식 , tag|
 |[2022.03.07](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/3월/2022.03.07.md)| delegate pattern , protocol|
+|[2022.03.08]() | delegate , 화면간에 데이터 전달|
