@@ -49,7 +49,7 @@
 📝 Pull Request && Review  </br>
 - [첫번째 PR](https://github.com/yagom-academy/ios-juice-maker/pull/189)
 - [두번째 PR](https://github.com/yagom-academy/ios-juice-maker/pull/194)
-- [세번째 PR]()
+- [세번째 PR](https://github.com/yagom-academy/ios-juice-maker/pull/215)
 </br>
 </br>
 
