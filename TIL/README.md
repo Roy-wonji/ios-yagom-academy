@@ -39,3 +39,4 @@
 |[2022.03.04](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/3월/2022.03.04.md)| 화면 전환 방식 , tag|
 |[2022.03.07](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/3월/2022.03.07.md)| delegate pattern , protocol|
 |[2022.03.08](https://github.com/Roy-wonji/ios-yagom-academy/blob/main/TIL/3월/2022.03.08.md) | delegate , 화면간에 데이터 전달|
+|[2022.03.10]()| UML|
