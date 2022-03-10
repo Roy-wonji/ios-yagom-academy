@@ -4,7 +4,7 @@
 
 |No|프로젝트|기간|Step1|Step2|Step 3|Step 4|Reviewer|팀원|
 |:--:|:----------:|:---:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
-|3|[쥬스 메이커](#3-쥬스-메이커)|3주|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/189)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/194)|-|-|[@AppleCeo](https://github.com/AppleCEO)|[@kimkyunghun3](https://github.com/kimkyunghun3) |
+|3|[쥬스 메이커](#3-쥬스-메이커)|3주|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/189)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/194)|[PR](https://github.com/yagom-academy/ios-juice-maker/pull/215)|-|[@AppleCeo](https://github.com/AppleCEO)|[@kimkyunghun3](https://github.com/kimkyunghun3) |
 |2|[묵찌빠 게임](#2-묵찌빠-게임)|1주|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/108)|[PR](https://github.com/yagom-academy/ios-rock-paper-scissors/pull/118)|-|-|[@Yoohan](https://github.com/YohanBlessYou) | [@마이노](https://github.com/Mino777)|
 |1|[숫자 야구](#1-숫자-야구-게임)|1주|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/74)|[PR](https://github.com/yagom-academy/ios-number-baseball/pull/89)|-|-|[@Jerry](https://github.com/llghdud921)|[@Quokkaaa](https://github.com/Quokkaaa) |
 
